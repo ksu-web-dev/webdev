@@ -19,7 +19,7 @@ const PageWrapper = styled.header`
   //width: 100%;
   //padding: 1rem 1.5rem;
   background: purple;
-  border-bottom: black;
+  border-bottom: 5px solid black;
   z-index: 999;
   .headerMain {
     display: flex;
